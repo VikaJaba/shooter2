@@ -154,3 +154,4 @@ while game:
         time.delay(3000)'''
     display.update()
     clock.tick(FPS)
+    #жаба
